@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
 
-    int n = 0, i = 0, primo_numero = 1, secondo_numero = 0, numero_successivo = 0;
+    long long n = 0, i = 0, primo_numero = 1, secondo_numero = 0, numero_successivo = 0;
     cin >> n;
 
 /*I comandi per la serie di fibonacci sono gli stessi  dell'esercitazione 4, ma per rispettare
