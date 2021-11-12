@@ -13,6 +13,6 @@ int main() {
                 numero_successivo = primo_numero + secondo_numero;
                 primo_numero = secondo_numero;
             secondo_numero = numero_successivo;
-            if(numero_successivo<= n){
+            if(n>=numero_successivo){
                 cout << numero_successivo << endl;}
     }}
